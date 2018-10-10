@@ -1,4 +1,4 @@
-# Psuedokod-grund
+﻿# Psuedokod-grund
 Grund rep för att lära oss psuedokod och git
 
 ## Instruktioner
@@ -10,3 +10,5 @@ Grund rep för att lära oss psuedokod och git
 
 ### Skiv gärna en liten readme efter ni är klara för att förklara vad era projekt gör.
 [Länk till hur man skriver text i markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#### vi fick  grupp ... pseudo kod 
